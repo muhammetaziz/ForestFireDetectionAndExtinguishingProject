@@ -1,0 +1,55 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\AzizProjeler\\Forest_fire_detection_and_extinguishing_project\\FireDetectSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{09995081-3F87-4F1F-9F68-71E911601C8E}|FireDetectSystem\\FireDetectSystem.vcxproj|C:\\PROGRAM FILES\\MICROSOFT VISUAL STUDIO\\2022\\COMMUNITY\\VC\\TOOLS\\MSVC\\14.39.33519\\INCLUDE\\VECTOR||{3B902123-F8A7-4915-9F01-361F908088D0}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09995081-3F87-4F1F-9F68-71E911601C8E}|FireDetectSystem\\FireDetectSystem.vcxproj|D:\\AzizProjeler\\Forest_fire_detection_and_extinguishing_project\\FireDetectSystem\\FireDetectSystem\\FireDetectSystem.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{09995081-3F87-4F1F-9F68-71E911601C8E}|FireDetectSystem\\FireDetectSystem.vcxproj|solutionrelative:FireDetectSystem\\FireDetectSystem.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "vector",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\vector",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\vector",
+              "ViewState": "AQIAAFMHAAAAAAAAAAAQwFsHAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-30T11:54:34.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FireDetectSystem.cpp",
+              "DocumentMoniker": "D:\\AzizProjeler\\Forest_fire_detection_and_extinguishing_project\\FireDetectSystem\\FireDetectSystem\\FireDetectSystem.cpp",
+              "RelativeDocumentMoniker": "FireDetectSystem\\FireDetectSystem.cpp",
+              "ToolTip": "D:\\AzizProjeler\\Forest_fire_detection_and_extinguishing_project\\FireDetectSystem\\FireDetectSystem\\FireDetectSystem.cpp",
+              "RelativeToolTip": "FireDetectSystem\\FireDetectSystem.cpp",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACIAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-30T11:49:51.367Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
