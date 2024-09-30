@@ -1,0 +1,2 @@
+# Forest_fire_detection_and_extinguishing_project
+forest fire detection and extinguishing project 
